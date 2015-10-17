@@ -1,0 +1,72 @@
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\Bin\Debug\DespesasFacil.dll
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\Bin\Debug\DespesasFacil.pdb
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\Bin\Debug\resources.pri
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\Bin\Debug\AppxManifest.xml
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\Bin\Debug\DespesasFacil.build.appxrecipe
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\Bin\Debug\AppManifest.xaml
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\Bin\Debug\DespesasFacil_Debug_AnyCPU.xap
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\obj\Debug\App.g.cs
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\obj\Debug\MainPage.g.cs
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\obj\Debug\DespesasFacil.g.resources
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\obj\Debug\DespesasFacil.Resources.AppResources.resources
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\obj\Debug\DespesasFacil.csproj.GenerateResource.Cache
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\obj\Debug\DespesasFacil.dll
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\obj\Debug\DespesasFacil.pdb
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\obj\Debug\priconfig.xml
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\obj\Debug\priconfig.xml.intermediate
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\obj\Debug\layout.resfiles
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\obj\Debug\layout.resfiles.intermediate
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\obj\Debug\resources.resfiles
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\obj\Debug\resources.resfiles.intermediate
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\obj\Debug\pri.resfiles
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\obj\Debug\pri.resfiles.intermediate
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\obj\Debug\qualifiers.txt
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\obj\Debug\ProjectArchitectures.txt
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\obj\Debug\MDILProjectFiles.xml
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\obj\Debug\XapCacheFile.xml
+C:\Users\Cássio\Copy\ProjetosC#\2015-2\lpc\DespesasFacil\DespesasFacil\obj\Debug\NewExpense.g.cs
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\Bin\Debug\DespesasFacil.dll
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\Bin\Debug\DespesasFacil.pdb
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\Bin\Debug\resources.pri
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\Bin\Debug\AppxManifest.xml
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\Bin\Debug\DespesasFacil.build.appxrecipe
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\Bin\Debug\AppManifest.xaml
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\Bin\Debug\DespesasFacil_Debug_AnyCPU.xap
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\obj\Debug\App.g.cs
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\obj\Debug\MainPage.g.cs
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\obj\Debug\NewExpense.g.cs
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\obj\Debug\DespesasFacil.g.resources
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\obj\Debug\DespesasFacil.Resources.AppResources.resources
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\obj\Debug\DespesasFacil.csproj.GenerateResource.Cache
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\obj\Debug\DespesasFacil.dll
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\obj\Debug\DespesasFacil.pdb
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\obj\Debug\priconfig.xml
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\obj\Debug\priconfig.xml.intermediate
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\obj\Debug\layout.resfiles
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\obj\Debug\layout.resfiles.intermediate
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\obj\Debug\resources.resfiles
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\obj\Debug\resources.resfiles.intermediate
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\obj\Debug\pri.resfiles
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\obj\Debug\pri.resfiles.intermediate
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\obj\Debug\qualifiers.txt
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\obj\Debug\ProjectArchitectures.txt
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\obj\Debug\MDILProjectFiles.xml
+C:\Users\Artur\Desktop\Ulbra\Linguagem de Programação Comercial\DespesasFacil\DespesasFacil\obj\Debug\XapCacheFile.xml
